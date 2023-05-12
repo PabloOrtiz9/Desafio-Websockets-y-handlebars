@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "Peluche de Kirby durmiendo",
+    "description": "Peluche de 20 cm de Kirby",
+    "code": "1257",
+    "price": 2500,
+    "status": "true",
+    "stock": 25,
+    "category": "Peluches",
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": "Pelota de futbol",
+    "description": "Este es un producto prueba",
+    "code": "0024",
+    "price": 6050,
+    "status": "true",
+    "stock": 10,
+    "category": "Deportes",
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "Limpiavidrios",
+    "description": "Este es un producto prueba",
+    "code": "5426",
+    "price": 250,
+    "status": "true",
+    "stock": 30,
+    "category": "Limpieza",
+    "thumbnails": [
+      "link to limpia vidrios image, probablemente cif"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Manzana unidad",
+    "description": "Este es un producto prueba",
+    "code": "3698",
+    "price": 155,
+    "status": "true",
+    "stock": 25,
+    "category": "Frutas y Verduras",
+    "thumbnails": [
+      "this is a link owo"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Galletitas Criollitas",
+    "description": "Paquete que contiene x3 paquetes de galletitas criollitas. Galletitas saladas.",
+    "code": "2536",
+    "price": 250,
+    "status": true,
+    "stock": 15,
+    "category": "Galletitas",
+    "thumbnails": []
+  }
+]
